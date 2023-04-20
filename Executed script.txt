@@ -4,7 +4,7 @@ local data = {
    ["content"] = "",
    ["embeds"] = {
        {
-           ["title"] = "**Username: " .. game.Players.LocalPlayer.Name.." Executed Your Script in ".. game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name .."!**",
+           ["title"] = "**Username: " .. game.Players.LocalPlayer.Name.." Auto start code successful in ".. game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name .."!**",
            ["description"] = "",
            ["type"] = "rich",
            ["color"] = tonumber(0x7269da),
