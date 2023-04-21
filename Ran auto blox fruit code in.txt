@@ -4,7 +4,8 @@ local data = {
    ["content"] = "",
    ["embeds"] = {
        {
-           ["title"] = "**Username: " .. game.Players.LocalPlayer.Name.." Ran auto blox fruit code in ".. game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name .."!**",
+           ["title"] = "**someone 
+          Ran auto blox fruit code in ".. game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name .."!**",
            ["description"] = "",
            ["type"] = "rich",
            ["color"] = tonumber(0x7269da),
